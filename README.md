@@ -1,0 +1,2 @@
+# Project24
+Exercício 24 da UC: PROGRAMAÇÃO DE SOLUÇÕES COMPUTACIONAIS
